@@ -1,0 +1,10 @@
+.lap__banner{
+    background: url(../img/laptop.png) no-repeat center/cover;
+    height: calc(100vh - 100px);
+}
+
+.laptop__desc{
+    max-width: 1440px;
+    width: 100%;
+    height: 100%;
+}
