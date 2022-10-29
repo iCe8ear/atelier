@@ -59,10 +59,11 @@ body{
     line-height: 22px;
     border: 1px solid #FFAE2B;
     padding: 15px 25px;
-    color: #FFAE2B;
+    color: #181511;
+    background: #FFAE2B;
 }
 
 .header_btn:hover{
-    background-color: #FFAE2B;
-    color: #181511;
+    background-color: #181511;
+    color: #FFAE2B;
 }
