@@ -9,6 +9,14 @@
     display: flex;
 }
 
+.tri__lap{
+    display: flex;
+}
+
+.roof__sofa{
+    display: flex;
+}
+
 .triple{
     position: relative;
     display: flex;

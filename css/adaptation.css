@@ -1,0 +1,27 @@
+@media screen and (max-width:1140px){
+    .header__wrap{
+        display: flex;
+        justify-content: center;
+        gap: 10px;
+    }
+    .services__cards{
+        flex-direction: column;
+    }
+    .intsa__wrap{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 40px;
+    }
+}
+
+@media screen and (max-width:650px){
+    .header__wrap{
+        flex-direction: column;
+        gap: 10px;
+    }
+    .logo__header{
+        flex-direction: column;
+    }
+}
